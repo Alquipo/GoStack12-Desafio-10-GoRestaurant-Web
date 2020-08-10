@@ -2,9 +2,9 @@
 
 <p align="center">
 
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alquipo/GoStack12-Desafio-10-GoRestaurant-Web ">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Alquipo/GoStack12-Desafio-10-GoRestaurant-Web">
 
-<img alt="Repository size" src="https://img.shields.io/github/repo-size/Alquipo/GoStack12-Desafio-10-GoRestaurant-Web ">
+<img alt="Repository size" src="https://img.shields.io/github/repo-size/Alquipo/GoStack12-Desafio-10-GoRestaurant-Web">
 
 <a href="https://www.linkedin.com/in/alquiponeto/">
     <img alt="Made by Alquipo" src="https://img.shields.io/badge/made%20by-AlquipoNeto-blue">
@@ -26,7 +26,7 @@
 
 </p>
 <h2 align="center">
-  Desafio 10: GoRestaurant Web 
+  Desafio 10: GoRestaurant Web
 </h2>
 
 ## 🚀 Sobre o desafio
